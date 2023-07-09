@@ -9,4 +9,5 @@ https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-light.css
 https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-reg.css
 https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-solid.css
 ```
-
+Here's the cdnjs link:
+`https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css`
